@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisableEnemyGeo", "DisableEnemyGeo\DisableEnemyGeo.csproj", "{8E635350-F776-4641-AAE6-7F3A36AC9EDB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{7E7F0563-8BE7-4A3C-BF2A-CF8187C55049}"
+	ProjectSection(SolutionItems) = preProject
+		.github\workflows\build.yml = .github\workflows\build.yml
+		.github\dependabot.yml = .github\dependabot.yml
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E635350-F776-4641-AAE6-7F3A36AC9EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E635350-F776-4641-AAE6-7F3A36AC9EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E635350-F776-4641-AAE6-7F3A36AC9EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E635350-F776-4641-AAE6-7F3A36AC9EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09F25FED-F714-4010-BF72-06299A4B2E45}
+	EndGlobalSection
+EndGlobal
